@@ -1,0 +1,10 @@
+pydicom
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+pylibjpeg
+pylibjpeg-libjpeg
+tqdm
