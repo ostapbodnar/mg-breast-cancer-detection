@@ -1,6 +1,8 @@
 # Breast cancer classification
 
-Dataset used: [RSNA Screening Mammography Breast Cancer Detection](https://www.https://www.kaggle.com/competitions/rsna-breast-cancer-detection/leaderboard)
+Paper: [Screening Mammography Breast Cancer Detection](https://arxiv.org/pdf/2307.11274v1.pdf) </br>
+Dataset used: [RSNA Screening Mammography Breast Cancer Detection](https://www.https://www.kaggle.com/competitions/rsna-breast-cancer-detection/leaderboard) </br>
+
 
 ## Step to reproduce
 1. Run [`dataset_prep` notebook](dataset_prep.ipynb) for creation balanced dataset and exporting file names to load
